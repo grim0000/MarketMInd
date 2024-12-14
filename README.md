@@ -1,5 +1,5 @@
 # Market Mind App
-## Summary: It is an app which shows a screener with nessecery info, sentimental analysys, etc and also provides an analysed list of signals provided in the web app chart.
+## Summary: It is an app which shows a screener with necessary info, sentimental analysis, etc and also provides an analysed list of signals provided in the web app chart.
 
 + The signals use Linear regretion algorithm to generate signals, while taking the fundamental analysis into consideration
 + The  software displays the current price chart and volume graph in different time frames as prompted by the user
