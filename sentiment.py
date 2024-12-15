@@ -2,7 +2,7 @@ from huggingface_hub import InferenceClient
 
 def perform_sentiment_analysis(symbol):
     # Replace 'your_api_key_here' with your actual Hugging Face API key
-    api_key = "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"
+    api_key = "Your_api_key"
     client = InferenceClient(api_key=api_key)
     
     # Prepare the prompt for sentiment analysis
